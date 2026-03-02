@@ -10575,3 +10575,9 @@
 {"actor":"shippercrm/crew/backend","comment":"","created_at":"2026-03-02T22:38:59Z","event_type":"label_added","id":27988,"issue_id":"sh-shippercrm-crew-backend","new_value":"Added label: gt:agent","old_value":""}
 {"actor":"shippercrm/crew/backend","comment":null,"created_at":"2026-03-02T22:39:05Z","event_type":"created","id":27955,"issue_id":"sh-rig-shippercrm","new_value":"","old_value":""}
 {"actor":"shippercrm/crew/backend","comment":"Added label: gt:rig","created_at":"2026-03-02T22:39:05Z","event_type":"label_added","id":27956,"issue_id":"sh-rig-shippercrm","new_value":null,"old_value":null}
+{"actor":"shippercrm/refinery","comment":"","created_at":"2026-03-02T22:39:08Z","event_type":"label_removed","id":27989,"issue_id":"bd-wisp-uxc6i","new_value":"Removed label: backoff-until:1772491147","old_value":""}
+{"actor":"shippercrm/refinery","comment":"","created_at":"2026-03-02T22:39:08Z","event_type":"label_added","id":27990,"issue_id":"bd-wisp-uxc6i","new_value":"Added label: backoff-until:1772491147","old_value":""}
+{"actor":"shippercrm/refinery","comment":"","created_at":"2026-03-02T22:39:08Z","event_type":"label_added","id":27991,"issue_id":"bd-wisp-uxc6i","new_value":"Added label: idle:1","old_value":""}
+{"actor":"shippercrm/refinery","comment":"","created_at":"2026-03-02T22:39:08Z","event_type":"label_removed","id":27992,"issue_id":"bd-wisp-uxc6i","new_value":"Removed label: backoff-until:1772491147","old_value":""}
+{"actor":"shippercrm/refinery","comment":"","created_at":"2026-03-02T22:39:08Z","event_type":"label_removed","id":27993,"issue_id":"bd-wisp-uxc6i","new_value":"Removed label: idle:1","old_value":""}
+{"actor":"shippercrm/refinery","comment":"","created_at":"2026-03-02T22:39:08Z","event_type":"label_added","id":27994,"issue_id":"bd-wisp-uxc6i","new_value":"Added label: idle:1","old_value":""}
