@@ -10531,3 +10531,7 @@
 {"actor":"l0g1x","comment":"Promoted from wisp to permanent bead: persistent polecats migration","created_at":"2026-02-26T04:19:12Z","event_type":"commented","id":27945,"issue_id":"bd-beads-refinery","new_value":null,"old_value":null}
 {"actor":"gastown/refinery","comment":"","created_at":"2026-03-01T01:05:02Z","event_type":"created","id":27946,"issue_id":"bd-beads-witness","new_value":"","old_value":""}
 {"actor":"gastown/refinery","comment":"","created_at":"2026-03-01T01:05:02Z","event_type":"created","id":27947,"issue_id":"bd-beads-refinery","new_value":"","old_value":""}
+{"actor":"l0g1x","comment":"","created_at":"2026-03-02T15:56:54Z","event_type":"created","id":27948,"issue_id":"bd-beads-witness","new_value":"","old_value":""}
+{"actor":"l0g1x","comment":"","created_at":"2026-03-02T15:56:54Z","event_type":"label_added","id":27949,"issue_id":"bd-beads-witness","new_value":"Added label: gt:agent","old_value":""}
+{"actor":"l0g1x","comment":"","created_at":"2026-03-02T15:56:54Z","event_type":"created","id":27950,"issue_id":"bd-beads-refinery","new_value":"","old_value":""}
+{"actor":"l0g1x","comment":"","created_at":"2026-03-02T15:56:54Z","event_type":"label_added","id":27951,"issue_id":"bd-beads-refinery","new_value":"Added label: gt:agent","old_value":""}
