@@ -10562,3 +10562,16 @@
 {"actor":"shippercrm/refinery","comment":"","created_at":"2026-03-02T22:20:30Z","event_type":"closed","id":27976,"issue_id":"bd-wisp-yze5","new_value":"patrol cycle complete: Queue empty, inbox clean. No merges this cycle.","old_value":""}
 {"actor":"shippercrm/witness","comment":"","created_at":"2026-03-02T22:21:24Z","event_type":"closed","id":27977,"issue_id":"bd-wisp-wi53z","new_value":"patrol cycle complete: Cycle 2: Rig idle. Deacon alive, refinery alive. No polecats, no in-progress work. 13 stale HANDOFF mails (no action needed).","old_value":""}
 {"actor":"shippercrm/refinery","comment":null,"created_at":"2026-03-02T22:23:32Z","event_type":"created","id":27954,"issue_id":"bd-48uwu","new_value":"","old_value":""}
+{"actor":"shippercrm/refinery","comment":"","created_at":"2026-03-02T22:38:08Z","event_type":"label_added","id":27978,"issue_id":"bd-wisp-uxc6i","new_value":"Added label: backoff-until:1772491147","old_value":""}
+{"actor":"shippercrm/crew/backend","comment":"","created_at":"2026-03-02T22:38:59Z","event_type":"created","id":27979,"issue_id":"bd-beads-witness","new_value":"","old_value":""}
+{"actor":"shippercrm/crew/backend","comment":"","created_at":"2026-03-02T22:38:59Z","event_type":"label_added","id":27980,"issue_id":"bd-beads-witness","new_value":"Added label: gt:agent","old_value":""}
+{"actor":"shippercrm/crew/backend","comment":"","created_at":"2026-03-02T22:38:59Z","event_type":"created","id":27981,"issue_id":"bd-beads-refinery","new_value":"","old_value":""}
+{"actor":"shippercrm/crew/backend","comment":"","created_at":"2026-03-02T22:38:59Z","event_type":"label_added","id":27982,"issue_id":"bd-beads-refinery","new_value":"Added label: gt:agent","old_value":""}
+{"actor":"shippercrm/crew/backend","comment":"","created_at":"2026-03-02T22:38:59Z","event_type":"created","id":27983,"issue_id":"sh-shippercrm-witness","new_value":"","old_value":""}
+{"actor":"shippercrm/crew/backend","comment":"","created_at":"2026-03-02T22:38:59Z","event_type":"label_added","id":27984,"issue_id":"sh-shippercrm-witness","new_value":"Added label: gt:agent","old_value":""}
+{"actor":"shippercrm/crew/backend","comment":"","created_at":"2026-03-02T22:38:59Z","event_type":"created","id":27985,"issue_id":"sh-shippercrm-refinery","new_value":"","old_value":""}
+{"actor":"shippercrm/crew/backend","comment":"","created_at":"2026-03-02T22:38:59Z","event_type":"label_added","id":27986,"issue_id":"sh-shippercrm-refinery","new_value":"Added label: gt:agent","old_value":""}
+{"actor":"shippercrm/crew/backend","comment":"","created_at":"2026-03-02T22:38:59Z","event_type":"created","id":27987,"issue_id":"sh-shippercrm-crew-backend","new_value":"","old_value":""}
+{"actor":"shippercrm/crew/backend","comment":"","created_at":"2026-03-02T22:38:59Z","event_type":"label_added","id":27988,"issue_id":"sh-shippercrm-crew-backend","new_value":"Added label: gt:agent","old_value":""}
+{"actor":"shippercrm/crew/backend","comment":null,"created_at":"2026-03-02T22:39:05Z","event_type":"created","id":27955,"issue_id":"sh-rig-shippercrm","new_value":"","old_value":""}
+{"actor":"shippercrm/crew/backend","comment":"Added label: gt:rig","created_at":"2026-03-02T22:39:05Z","event_type":"label_added","id":27956,"issue_id":"sh-rig-shippercrm","new_value":null,"old_value":null}
